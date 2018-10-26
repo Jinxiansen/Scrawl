@@ -18,8 +18,7 @@ Sketch 瞎涂个鸦、临摹。
 
 
 
-
-以上附带 `.sketch` 源文件。
+ `.sketch` 源文件见 [Source](Source)。
 
 
 
